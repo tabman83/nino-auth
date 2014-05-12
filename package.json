@@ -1,0 +1,22 @@
+{
+	"name": "nino-auth",
+	"version": "0.1.0",
+	"author": "Antonino Parisi <tabman83@gmail.com>",
+	"description": "A token-based authentication and HMAC verification middleware",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tabman83/nino-auth.git"
+	},
+	"keywords": [
+		"authentication",
+		"token",
+		"verification",
+		"hmac"
+	],
+	"dependencies": {
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.6"
+	}
+}
