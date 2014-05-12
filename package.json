@@ -1,6 +1,6 @@
 {
 	"name": "nino-auth",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"author": "Antonino Parisi <tabman83@gmail.com>",
 	"description": "A token-based authentication and HMAC verification middleware",
 	"repository": {
