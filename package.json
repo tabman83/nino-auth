@@ -18,8 +18,8 @@
 		"hmac"
 	],
 	"dependencies": {
-		"jsonwebtoken": "~0.4.0",
-		"crypto": "*"
+		"jsonwebtoken": "~0.4.x",
+		"cryptojs": "~2.5.x"
 	},
 	"license": "MIT",
 	"engines": {
