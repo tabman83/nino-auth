@@ -1,6 +1,6 @@
 {
 	"name": "nino-auth",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"author": "Antonino Parisi <tabman83@gmail.com>",
 	"description": "A token-based authentication and HMAC verification middleware",
 	"repository": {
@@ -18,8 +18,7 @@
 		"hmac"
 	],
 	"dependencies": {
-		"jsonwebtoken": "~0.4.x",
-		"cryptojs": "~2.5.x"
+		"jsonwebtoken": "~0.4.x"
 	},
 	"license": "MIT",
 	"engines": {
